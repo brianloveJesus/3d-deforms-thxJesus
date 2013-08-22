@@ -3,6 +3,10 @@
 
 metaballs softbodies cloth deformable jello in Jesus name
 
-currently using c# for unity 3d, instructions included in .cs files
+using c# for unity 3d, instructions included in .cs files
+sample unity package included
 
-C++ coming soon primero Dios
+c++ code using GLUT also, compiles on linux, read comments for osx
+
+![alt tag](https://raw.github.com/brianlovesjesus/3d-deforms-thxJesus/master/img/blobs.jpg)
+
